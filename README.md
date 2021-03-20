@@ -24,7 +24,7 @@ The Tour of Heroes app helps a staffing agency manage its stable of heroes. The 
 2. To install the Angular CLI, open a terminal window and run the following command:
 
 ```
-npm install -g @angular/cli
+  npm install -g @angular/cli
 ```
 
 3. **Clone the repository** on your machine, using the command below on your terminal:
